@@ -48,3 +48,5 @@ angular.module('myApp.course', ['ngRoute'])
 		console.log('error');
 	});
 }]);
+
+// TESTING THE GITIGNORE
